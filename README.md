@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am currently a Frontend Developer for Chicago Artist Guide
+
 
 <!--
 **ajkendal/ajkendal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
