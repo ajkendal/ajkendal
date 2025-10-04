@@ -15,7 +15,7 @@
   <!-- Socials -->
   <p>
     <a href="https://ajkendal.github.io/">🌐 Portfolio</a> ·
-    <a href="https://www.linkedin.com/in/akendalb">💼 LinkedIn</a>
+    <a href="https://www.linkedin.com/in/akendalb">💼 LinkedIn</a> ·
     <a href="https://instagram.com/akendalb">📸 Instagram</a>
   </p>
 </div>
