@@ -29,9 +29,6 @@
 - 🤖 Comfortable integrating AI/LLM services and external APIs.
 - 🧪 Testing, accessibility, and maintainability are non-negotiable.
 
-**Links:**  
-[Portfolio](https://ajkendal.github.io/) · [LinkedIn](https://www.linkedin.com/in/akendalb) · [Frontend Mentor](https://www.frontendmentor.io/profile/ajkendal) · [Scrimba](https://scrimba.com/@ajkendal) · [Instagram](https://instagram.com/akendalb)
-
 ---
 
 ### Tech Stack
