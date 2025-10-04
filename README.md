@@ -125,4 +125,6 @@
 - 🧩 Favorite stack: React • TypeScript • Vite • Tailwind • Vitest/Playwright.
 - 🗣️ Open to collabs, especially on design systems and DX tools.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF7A18,0:FFB35A" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF7A18,0:FFB35A" />
+</div>
