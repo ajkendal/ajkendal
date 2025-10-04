@@ -1,6 +1,7 @@
 <div align="center">
   <!-- Orange gradient banner -->
   <img
+    width='100%'
     src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Amanda%20J%20Kendal-Brown&fontAlign=50&fontSize=44&fontColor=ffffff&color=0:FF7A18,100:FFB35A"
     alt="Amanda J Kendal-Brown Banner"
   />
