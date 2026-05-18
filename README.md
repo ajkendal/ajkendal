@@ -59,7 +59,6 @@
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=white" />
   <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" />
 </p>
@@ -93,9 +92,10 @@
 
 <div align="center">
 
-  <!-- Top languages & stats -->
-  <img alt="GitHub Stats" height="160" src="https://github-readme-stats.vercel.app/api?username=ajkendal&show_icons=true&theme=transparent" />
-  <img alt="Top Languages" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajkendal&layout=compact&theme=transparent&langs_count=8" />
+  <!-- Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=ajkendal&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+  </a>
 
   <!-- Streak -->
   <img alt="GitHub Streak" height="160" src="https://streak-stats.demolab.com?user=ajkendal&theme=transparent" />
@@ -108,13 +108,23 @@
 
 ### Featured Projects
 
-- 🗺️ **AI Travel Agent** — AI-powered trip planning with real-time data.  
+- 🌀 **vibekit** — newest project, live at [vibekit.studio](https://www.vibekit.studio/).  
+  <a href="https://github.com/ajkendal/vibekit"><img src="https://img.shields.io/badge/Repo-vibekit-FF7A18?logo=github&logoColor=white" /></a>
+  <a href="https://www.vibekit.studio/"><img src="https://img.shields.io/badge/Live-vibekit.studio-FFB35A?logo=vercel&logoColor=white" /></a>
+
+- 🗺️ **AI Travel Agent** — AI-powered trip planning with real-time weather, flight, and hotel data.  
   <a href="https://github.com/ajkendal/ai-travel-agent"><img src="https://img.shields.io/badge/Repo-ai--travel--agent-FF7A18?logo=github&logoColor=white" /></a>
 
-- 🪐 **Space Tourism (Frontend Mentor)** — type-safe Next.js UI challenge.  
+- 🎬 **PopChoice (Cloudflare)** — full-stack AI movie picker on React, Supabase, Cloudflare Workers, and OpenAI.  
+  <a href="https://github.com/ajkendal/pop-choice-cloudflare"><img src="https://img.shields.io/badge/Repo-pop--choice--cloudflare-FF7A18?logo=github&logoColor=white" /></a>
+
+- 🤖 **Scrimb Bot** — LangChain.js chatbot with conversation memory, Supabase vector store, and OpenAI.  
+  <a href="https://github.com/ajkendal/scrimba-bot"><img src="https://img.shields.io/badge/Repo-scrimba--bot-FF7A18?logo=github&logoColor=white" /></a>
+
+- 🪐 **Space Tourism (Frontend Mentor)** — type-safe Next.js multipage UI challenge.  
   <a href="https://github.com/ajkendal/frontend-mentor-space-tourism"><img src="https://img.shields.io/badge/Repo-frontend--mentor--space--tourism-FF7A18?logo=github&logoColor=white" /></a>
 
-- 🎯 **REST Countries** — API integration + filtering + dark mode.  
+- 🎯 **REST Countries** — API integration with filtering, dark mode, and a failsafe data fallback.  
   <a href="https://github.com/ajkendal/rest-countries-api"><img src="https://img.shields.io/badge/Repo-rest--countries--api-FF7A18?logo=github&logoColor=white" /></a>
 
 ---
