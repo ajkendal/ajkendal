@@ -91,12 +91,6 @@
 ### GitHub Stats
 
 <div align="center">
-
-  <!-- Trophies -->
-  
-    [![trophy](https://github-profile-trophy.vercel.app/?username=ajkendal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
- 
-
   <!-- Streak -->
   <img alt="GitHub Streak" height="160" src="https://streak-stats.demolab.com?user=ajkendal&theme=transparent" />
 
