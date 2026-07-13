@@ -24,7 +24,7 @@
 
 ### About me
 
-- 🧭 Based in Chandler, AZ • building delightful, performant UIs.
+- 🧭 Based in Fairfax, VA • building delightful, performant UIs.
 - ⚛️ React + TypeScript enjoyer with a love for design systems and clean component APIs.
 - 🤖 Comfortable integrating AI/LLM services and external APIs.
 - 🧪 Testing, accessibility, and maintainability are non-negotiable.
