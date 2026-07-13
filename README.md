@@ -94,7 +94,7 @@
 
   <!-- Trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=ajkendal&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+    [![trophy](https://github-profile-trophy.vercel.app/?username=ajkendal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   </a>
 
   <!-- Streak -->
