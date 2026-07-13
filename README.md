@@ -93,9 +93,9 @@
 <div align="center">
 
   <!-- Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  
     [![trophy](https://github-profile-trophy.vercel.app/?username=ajkendal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  </a>
+ 
 
   <!-- Streak -->
   <img alt="GitHub Streak" height="160" src="https://streak-stats.demolab.com?user=ajkendal&theme=transparent" />
