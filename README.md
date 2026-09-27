@@ -95,7 +95,7 @@
   <img alt="GitHub Streak" height="160" src="https://streak-stats.demolab.com?user=ajkendal&theme=transparent" />
 
   <!-- Activity Graph (self-hosted via GitHub Actions, see .github/workflows/activity-graph.yml) -->
-  <img alt="Activity Graph" src="https://raw.githubusercontent.com/ajkendal/ajkendal/output/dist/activity-graph.svg" />
+  <img alt="Activity Graph" src="https://raw.githubusercontent.com/ajkendal/ajkendal/output/activity-graph.svg" />
 </div>
 
 ---
